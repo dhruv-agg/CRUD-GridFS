@@ -1,6 +1,8 @@
 # CRUD-GridFS
-Common methods to perform CRUD on MongoDB GridFS
+Common methods to perform CRUD on MongoDB GridFS.
+
 If you've used MongoDB, then you know what is GridFS.
+
 But if you're not using it, then you're not using MongoDB to it's fullest. 
 
 Here's jupyter notebook (.ipynb) showcasing examples on how 
